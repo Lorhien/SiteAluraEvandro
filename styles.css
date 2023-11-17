@@ -1,5 +1,10 @@
 header {
-    background-color: #4d73db;
+    background-color: #ebedf3;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
+}
+
+body {
+background: linear-gradient(#ebedf3,#89a5f3);
+
 }
