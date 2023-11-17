@@ -1,5 +1,8 @@
 header {
-    background-color: #ebedf3;
+    background-color: #ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
+}
+body {
+background: linear-gradient(#ffffff,#89a5f3);
 }
