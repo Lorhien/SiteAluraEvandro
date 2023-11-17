@@ -1,8 +1,8 @@
 header {
-    background-color: #4f74db;
+    background-color: #4d73db)
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
 body{
-    background-color: #4f74db;
+    background: linear-gradient(#4d73db, rgb(246, 247, 252));;
 }
