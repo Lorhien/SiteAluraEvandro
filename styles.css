@@ -2,6 +2,8 @@ header {
     background: linear-gradient(#ffff,#75aee7);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
 }
 body {
 background-color: #75aee7;
